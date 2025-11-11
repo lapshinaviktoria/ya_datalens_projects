@@ -9,3 +9,7 @@
 Заказчик: Компания, которая приобрела лицензию на проведение конференций TED.
 
 Ссылка на дашборд: https://datalens.yandex/fbcue77vrabu1
+
+Скриншот дашборда:
+
+<img width="749" height="518" alt="Image" src="https://github.com/user-attachments/assets/c075e405-be3d-4bb4-8c29-64d38e44669c" />
